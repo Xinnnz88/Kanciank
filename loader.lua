@@ -10,7 +10,7 @@
 local CONFIG = {
     -- Raw URL dari GitHub private repo (pakai token)
     -- Format: https://raw.githubusercontent.com/{user}/{repo}/{branch}/{file}?token={PAT}
-    SCRIPT_URL = "https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/Sour_lua_fixed.lua?token=GITHUB_PAT_TOKEN_HERE",
+    SCRIPT_URL = "https://raw.githubusercontent.com/Xinnnz88/source-secret/refs/heads/main/Sour_lua_fixed.lua?token=GHSAT0AAAAAADZHZOIP4E64G44UNJEF3B262QILPCA",
 
     -- Nama hub (untuk pesan error)
     HUB_NAME   = "Xinnz Hub",
